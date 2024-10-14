@@ -1,4 +1,4 @@
 from yolo import detect_objects
 
-image_path = "sports.jpg"
+image_path = "image/sports.jpg"
 detect_objects(image_path)

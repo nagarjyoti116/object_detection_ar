@@ -2,7 +2,7 @@ from yolo import detect_objects;
 import cv2
 import numpy as np
    
-image_path = 'sports.jpg' 
+image_path = 'image/sports.jpg' 
 img, boxes, confidences, class_ids, class_names, idxs = detect_objects(image_path)
 
 frame_count = 0
