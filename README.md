@@ -8,7 +8,7 @@ Before running this project, ensure you have the following:
 
 * Python 3.7 or later
 * OpenCV 4.5 or later
-* YOLOv3 or YOLOv4 weights and configuration files(.weights and .cfg files)
+* YOLOv3 weights and configuration files(.weights and .cfg files)
 * COCO dataset class names (coco.names)
 
 ## Libraries:
@@ -20,13 +20,16 @@ Before running this project, ensure you have the following:
 
 1. Clone this repository:
 ```bash
-git clone ...
+git clone 
 ```
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-3. You can use your own image folder by simply updating the image path accordingly.
+3. Download Yolo3.weight using the link below
+   https://pjreddie.com/media/files/yolov3.weights
+5. You can use your own image folder by simply updating the image path accordingly.
+ 
 
 ## Usage
 
