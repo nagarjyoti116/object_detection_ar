@@ -1,7 +1,7 @@
 import cv2
 from yolo import detect_objects
 
-image_path = 'image/sports.jpg'
+image_path = 'sports.jpg'
 def box_n_text(image_path) :
     img, boxes, confidences, class_ids, class_names, idxs = detect_objects(image_path)
     if len(idxs) > 0:
