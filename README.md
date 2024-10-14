@@ -26,7 +26,7 @@ git clone https://github.com/nagarjyoti116/object_detection_ar.git
 ```bash
 pip install -r requirements.txt
 ```
-3. Download Yolo3.weight using the link below
+3. Download Yolo3.weight using the link
    https://pjreddie.com/media/files/yolov3.weights
 5. You can use your own image folder by simply updating the image path accordingly.
  
