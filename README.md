@@ -20,7 +20,7 @@ Before running this project, ensure you have the following:
 
 1. Clone this repository:
 ```bash
-git clone 
+git clone https://github.com/nagarjyoti116/object_detection_ar.git
 ```
 2. Install the required dependencies:
 ```bash
